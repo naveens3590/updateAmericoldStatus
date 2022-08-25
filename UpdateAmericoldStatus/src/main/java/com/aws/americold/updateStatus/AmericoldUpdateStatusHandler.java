@@ -1,3 +1,8 @@
+/**
+* Class to process the americold data and update the status to inprogress state in americold db
+*
+* @author Naveen Kumar
+*/
 package com.aws.americold.updateStatus;
 
 import java.sql.Connection;
